@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://chidiwilliams.github.io',
+  url: 'https://QubitPi.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/buzz/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'chidiwilliams', // Usually your GitHub org/user name.
+  organizationName: 'QubitPi', // Usually your GitHub org/user name.
   projectName: 'buzz', // Usually your repo name.
 
   onBrokenLinks: 'throw',
